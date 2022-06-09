@@ -1,0 +1,342 @@
+RING
+	Effect_XPBonus:+50%
+	Effect_FindMoreGold:+1000%
+	$100
+RING
+	BattleMage:+2
+	Effect_RecoverMana:+350%
+	$100
+STAFF
+	Effect_UpAllSkills:+3
+	Effect_FastCast:+50%
+	Effect_UpDamage:+15
+	$100
+RING
+	Effect_XPBonus:+50%
+	Effect_FindMoreGold:+1000%
+	$100
+RING
+	BattleMage:+2
+	Effect_RecoverMana:+350%
+	$100
+STAFF
+	Effect_UpAllSkills:+3
+	Effect_FastCast:+50%
+	Effect_UpDamage:+15
+	$100
+RING
+	Effect_XPBonus:+50%
+	Effect_FindMoreGold:+1000%
+	$100
+RING
+	BattleMage:+2
+	Effect_RecoverMana:+350%
+	$100
+STAFF
+	Effect_UpAllSkills:+3
+	Effect_FastCast:+50%
+	Effect_UpDamage:+15
+	$100
+
+
+STAFF
+	Effect_UpDamage:+7
+	Effect_FastCast:+20%
+	Rare
+	$6500
+STAFF
+	Effect_UpDamage:+10
+	Rare
+	$7000
+RING
+	Effect_UpDamage:+5
+	Effect_FastCast:+10%
+	Rare
+	$5500
+
+RING	
+	LifeUp:+2
+	Effect_RecoverLife:+300%
+	Rare
+	$5000
+
+RING	
+	ManaUp:+2
+	Effect_RecoverMana:+20%
+	Rare
+	$6000
+
+RING	
+	Effect_FastCast:+50%
+	Meditation:+1
+	Rare
+	$2500
+
+STAFF
+	MagicMissile:+2
+	MoreMissiles:+2
+	Rare
+	$5000
+STAFF
+	FrostWail:+2
+	ChillWind:+2
+	Rare
+	$5000
+
+STAFF
+	Fireball:+2
+	Effect_UpDamage:+4
+	Rare
+	$5500
+
+STAFF
+	Lightning:+2
+	Chaining:+2
+	Rare
+	$6000
+
+STAFF
+	Lightning:+2
+	Stun:+4
+	Rare
+	$6500
+
+STAFF
+	BattleMage:+2
+	Effect_RecoverMana:+20%
+	Rare
+	$2500
+
+STAFF
+	Effect_FindMoreGold:+500%
+	Rare
+	$2500
+
+RING	
+	Effect_FastCast:+150%
+	Rare
+	$1500
+
+RING	
+	Effect_ResistPoison:+80%
+	Effect_RecoverLife:+300%
+	Rare
+	$4500
+
+RING
+	MagicMissile:+2
+	Rare
+	$2000
+RING
+	FrostWail:+2
+	Rare
+	$2000
+
+RING
+	Fireball:+2
+	Rare
+	$2000
+
+RING
+	Lightning:+2
+	Rare
+	$2000
+
+STAFF
+	Effect_UpDamage:+4
+	Effect_RecoverMana:+25%
+	Rare
+	$5000
+
+STAFF
+	Effect_UpDamage:+3
+	Effect_RecoverMana:+25%
+	Rare
+	$4000
+
+STAFF
+	Effect_UpDamage:+3
+	Effect_Shielding:+45%
+	Rare
+	$3000
+
+STAFF
+	Effect_Updamage:+2
+	Effect_Shielding:+45%
+	Rare
+	$2000
+
+RING
+	Effect_RecoverMana:+25%
+	Effect_Shielding:+45%
+	Rare
+	$2000
+
+RING
+	Effect_RecoverMana:+50%
+	Rare
+	$1500
+
+RING
+	Effect_RecoverMana:+100%
+	Rare
+	$2500
+
+RING
+	Effect_RecoverMana:+200%
+	Rare
+	$5000
+
+STAFF
+	Effect_Updamage:+6
+	BattleMage:+2
+	Epic
+	$8000
+STAFF
+	Effect_RecoverMana:+350%
+	Epic
+	$9000
+STAFF
+	Effect_Updamage:+7
+	Effect_Shielding:+45%
+	Epic
+	$9500
+STAFF
+	Effect_FindMoreGold:+1000%
+	Epic
+	$3000
+STAFF
+	Effect_FastCast:+100%
+	Effect_Updamage:+3
+	Epic
+	$5000
+STAFF
+	Effect_RecoverLife:+1000%
+	Effect_Shielding:+25%
+	Epic
+	$3000
+RING
+	Effect_Updamage:+5
+	Effect_RecoverMana:+50%
+	Epic
+	$5000
+RING
+	Effect_RecoverMana:+200%
+	Epic
+	$3500
+RING
+	Effect_RecoverMana:+100%
+	ChannelMana:+1
+	Epic
+	$3000
+STAFF
+	MagicMissile:+2
+	MoreMissiles:+2
+	Epic
+	$4000
+STAFF
+	FrostWail:+2
+	RingOfIce:+2
+	Epic
+	$4000
+STAFF
+	Fireball:+2
+	Explode:+2
+	Epic
+	$4000
+STAFF
+	Lightning:+2
+	Chaining:+2
+	Epic
+	$4000
+STAFF
+	Lightning:+2
+	BattleMage:+3
+	Epic
+	$5000
+STAFF
+	MagicMissile:+2
+	BattleMage:+3
+	Epic
+	$5000
+STAFF
+	FrostWail:+2
+	BattleMage:+3
+	Epic
+	$5000
+STAFF
+	Fireball:+2
+	BattleMage:+3
+	Epic
+	$5000
+RING
+	RingOfFire:+2
+	Epic
+	$6000
+RING
+	RingOfIce:+2
+	Epic
+	$6000
+RING
+	AcidCloud:+2
+	Epic
+	$6000
+RING
+	MagicShield:+2
+	Epic
+	$3500
+RING
+	MagicCircle:+2
+	Epic
+	$6000
+STAFF
+	Effect_UpDamage:+4
+	Effect_FastCast:+50%
+	Epic
+	$5500
+STAFF
+	Telekinesis:+1
+	Effect_RecoverMana:+100%
+	Epic
+	$3700
+STAFF
+	Meditation:+1
+	Effect_RecoverMana:+100%
+	Epic
+	$4000
+STAFF
+	MentalFocus:+1
+	Effect_UpDamage:+5
+	Epic
+	$6000
+
+STAFF
+	Effect_RecoverLife:+1000%
+	Effect_ResistPoison:+75%
+	Epic
+	$3800
+
+RING	
+	LifeUp:+2
+	Effect_RecoverLife:+300%
+	Epic
+	$5000
+
+RING	
+	ManaUp:+2
+	Effect_RecoverMana:+25%
+	Epic
+	$5500
+RING	
+	Effect_UpAllSkills:+2
+	Epic
+	$8000
+STAFF
+	Effect_UpAllSkills:+3
+	Epic
+	$11000
+
+STAFF
+	Effect_UpDamage:+15
+	Rare
+	$15000

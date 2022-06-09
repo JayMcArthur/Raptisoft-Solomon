@@ -1,0 +1,44 @@
+<NAME>Hagatha</NAME>
+
+<INTRO>
+What are you looking at?  What do you want?  Whatever it is, buy it quickly and leave me alone.
+Are you one of the University faculty? Can't stand the faculty. Oooh-- you're not the poor, gullible idiot they're sending to attack Solomon Dark, are you? Gods, that's hilarious. I should be nice to you, it'll help me recover my karma.
+Let's see... I have a wide variety of charms, blessings, curses and talismans.  If you're very lucky, some of them might even keep you alive for a few extra minutes.
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Buy Charms and Curses</Q>
+<A>!BUYPERKS</A>
+
+<Q>Cost of Charms?</Q>
+<A>
+Well, see here: Mixing up these things is a lot of work.
+But it's a lot _iless_i work once I've opened the right bags and cleaned the right tools and measured out the right ingredients.
+So, fair do's, my embellishments are a lot less expensive if I've mixed them up recently.
+</A>
+
+<Q>Your attitude?</Q>
+<A>
+You'd be tetchy too if you had to cope with a bunch of dreary old professors who only stop leering for long enough to patronise you.
+For the record, I'm here out of _igood will_i.
+The Archchancellor _iinvited_i me, because I'm good with charms and the rest of you are lacking in that department.
+</A>
+
+<Q>Solomon Dark?</Q>
+<A>
+He's the reason I'm here, so I can't say I think anything nice about him.
+Other than that, I've only been let in on the basics.  I know he's some mad wizard.  I know he's a tough one.
+Clearly he's making a lot of trouble for the faculty here, so he can't be all bad.
+</A>
+		
+<Q>Where are you from?</Q>
+<A>
+The swamps near Heck Hollow, where the townsfolk _iappreciate_i me.
+At least, the ones I haven't cursed do.  And the ones I haven't locked in a tall tower.  Or got with that gingerbread house.
+</A>
+
+<Q>Any tips?</Q>
+<A>
+If you see an opportunity to die quickly and painlessly, I suggest you take it.
+</A>
+
+

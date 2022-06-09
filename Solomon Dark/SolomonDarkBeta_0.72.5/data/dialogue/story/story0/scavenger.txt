@@ -1,0 +1,24 @@
+<NAME>Luthacus</NAME>
+
+<INTRO>
+Pleased to meet you, mate.  I'm the College's Official Unreal Crime Scene Investigator.
+Basically, that means it's my humble jobbing duty to trudge out into the field and retrieve the remains-- and by remains, I mean little bits and pieces-- of wizards and witches who've gone and done themselves a magical mishap, so they can get buried proper.
+Now, between you and me, there's no point burying the dead with all their stuff, eh?  They don't need it.  Other people might.  Have a look here and see if there's anything you can use.  By order of the Archchancellor, o'course.
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Examine Items</Q>
+<A>!INVENTORY</A>
+
+<Q>Isn't this bad luck?</Q>
+<A>
+Rubbish! If there was any bad luck in wearing clothes off a dead man, I'd be dead myself right now!
+</A>
+
+<Q>Solomon Dark?</Q>
+<A>
+Solomon Dark? 
+Now there's a fellow who I'd like to shake by the hand.  Thanks to him, my business is up three hundred percent... and that's just in the last two months!  He's going through the faculty like a Basilisk Hound goes through babies.
+Er, um, I mean to say, Solomon Dark... terrible, terrible fellow, he is.  Right hope someone does for him, and soon.  Have you looked through this chest here?
+</A>
+
+

@@ -1,0 +1,49 @@
+<NAME>Provokatus</NAME>
+
+<INTRO>
+Well well, more grist for the mill, eh?
+I say, I hope you do better than some of these others that were sent out.
+Well, give me your name, speciality, et-cetera, and I'll see that your story is immortilized in the Annals.
+You know that recording these Annals is a frightfully dull task, right?  I don't suppose there's anything interesting or spectacular about you that could liven up my job a bit?
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Boast</Q>
+<A>!BOAST</A>
+
+<Q>Interesting how?</Q>
+<A>
+Well, every shift I must record the lives of all these wizards here.  Very, very dull wizards.
+I thought you might be the rare exception that distinguishes chronicling from making laundry lists.
+So you're going out this urgent quest, but nobody says you can't do it with style!
+What do you say... maybe you've got some special plan up your sleeve?  Something different than "wizard stopped for lunch, wizard has encounter, wizard returns to college?"  If have to write up another one of those, I might disintegrate myself.
+</A>
+
+<I>POTIONS ARE FOR PEASANTS!</I>
+<A>
+Now let me get this straight, you are telling me that you will take on this entire endeavor without once restoring or fortifying yourself with any kind of potion?
+Oh yes, now that's a bit interesting!  Good on you!  For once there will be payoff for my hand cramps and blurred vision.  Game on, then!
+</A>
+
+<I>I'M TOO MACHO FOR MAGIC!</I>
+<A>
+So let me understand, and this is for posterity... you're telling me that you are so confident-- overconfident?-- that you will refrain from donning even the simplest of magical items?
+Splendid!  I've made a note that you're a good sport, and I'll see to it that your pages get written in blue ink, with full illumination on the first letter.
+</A>
+
+<I>SECONDARIES ARE SISSY!</I>
+<A>
+As I understand it, your assertion is that you will completely abstain from casting secondary magic spells?  No shields, no storms, none of that?
+Well, now you have engaged my enthusiasm.  I will chronicle your story with more adjectives than most.
+</A>
+
+<I>I AM ONE WITH THE MAGIC!</I>
+<A>
+Hold on, hold on, you're telling me that you actually intend to invoke the Thaumaturgic Channelling and submit yourself to the will of the magic?  To take whatever chaotic skills and powers it deigns to bestow upon you?
+Madness!  But inspired madness!  And for such a feat as this, I shall delve into my limited supply of glitter ink!
+</A>
+
+<I>I NEVER RUN OUT OF MANA!</I>
+<A>
+Ho ho!  Not one in a hundred wizards makes this claim!  Now, if you can really pull this off, people will be cross-referencing your chapters for centuries!
+I'm excited!  It's always a pleasant surprise to meet a wizard who isn't a fussy prig.  I'll see if I can even sneak a few illustrations into your pages.
+</A>

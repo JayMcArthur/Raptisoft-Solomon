@@ -1,0 +1,63 @@
+<NAME>Provokatus</NAME>
+
+<INTRO>
+Look at all those blue robes scurrying about.  How many of them do you think will graduate?  One in ten.  How many of them will do anything interesting?  Not one in a hundred... but I still have to write every single thing they do down!
+I'm the College Annalist.  That means it's my job to keep records.  Even when the people I'm recording are so dull they make me want to slip into a boredom coma.
+...Say, you're the one they're throwing at Solomon Dark, aren't you?  Now that guy, he may be evil, but at least he livens up the history!  And hey, good on you for making an epic struggle out of it.
+So, give me your name and specialty, I'll (sigh) write it down.
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Boast</Q>
+<A>!BOAST</A>
+
+<Q>Any tips?</Q>
+<A>
+It'd be better for the story if you tried not to use anything like health potions or really powerful spells.
+"Wizard easily kills rogue with overwhelming firepower, was in no real danger" doesn't really have that plucky underdog feel to it.
+Also, you could spend most of the fight near defeat, only to suddenly win at the last minute-- that'd add dynamic tension.
+Throw finding your true love in there and I could make a whole legend out of it!  I'm not sure where you'd find true love, I assume there's a spell for it.
+</A>
+	
+<Q>Solomon Dark?</Q>
+<A>
+I'll consult the Annals.
+Let's see-- it wasn't me who chronicled this-- here we go, Solomon Dark, cross-referenced under "friendless," "evil," and "jerk."
+"It says he was an unremarkable student, maintaining his mediocrity until nobody was looking.  And he liked to pick the wings off flies, hm.
+Personally, I remember the fuss when-- well, he called it his "Graduation Party."  Ah, now _ithose_i were the days to be an Annalist.
+</A>		
+
+<Q>The Annals</Q>
+<A>
+The University Annals chronicle all events, minor and major, to a tedious extreme, that transpire over this campus and amongst alumni.
+The position of Annalist is a tradition stretching back to the earliest days of the University--in fact, if you consult the Early Annals, you'll see it chronicled that the first Archchancellor said a number of very _ispecific_i things about Annalist wage levels and job security...
+</A>
+
+<I>POTIONS ARE FOR PEASANTS!</I>
+<A>
+Now let me get this straight, you are telling me that you will take on this entire endeavor without once restoring or fortifying yourself with any kind of potion?
+Oh yes, now that's a bit interesting!  Good on you!  For once there will be payoff for my hand cramps and blurred vision.  Game on, then!
+</A>
+
+<I>I'M TOO MACHO FOR MAGIC!</I>
+<A>
+So let me understand, and this is for posterity... you're telling me that you are so confident-- overconfident?-- that you will refrain from donning even the simplest of magical items?
+Splendid!  I've made a note that you're a good sport, and I'll see to it that your pages get written in blue ink, with full illumination on the first letter.
+</A>
+
+<I>SECONDARIES ARE SISSY!</I>
+<A>
+As I understand it, your assertion is that you will completely abstain from casting secondary magic spells?  No shields, no storms, none of these helpers?
+Well, now you have engaged my enthusiasm.  I will chronicle your story with more adjectives than most.
+</A>
+
+<I>I AM ONE WITH THE MAGIC!</I>
+<A>
+Hold on, hold on, you're telling me that you actually intend to invoke the Thaumaturgic Channelling and submit yourself to the will of the magic?  To take whatever chaotic skills and powers it deigns to bestow upon you?
+Madness!  But inspired madness!  And for such a feat as this, I shall delve into my limited supply of glitter ink!
+</A>
+
+<I>I NEVER RUN OUT OF MANA!</I>
+<A>
+Ho ho!  Not one in a hundred wizards makes this claim!  Now, if you can really pull this off, people will be cross-referencing your chapters for centuries!
+I'm excited!  It's always a pleasant surprise to meet a wizard who isn't a fussy prig.  I'll see if I can even sneak a few illustrations into your pages.
+</A>

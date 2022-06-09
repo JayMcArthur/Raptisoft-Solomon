@@ -1,0 +1,90 @@
+<NAME>Professor Semicus</NAME>
+
+<INTRO>
+Oh, hum, good morning.  Is it morning?  Well then, good morning, student.  Are you a student?  No, you're faculty, aren't you?
+Just a moment, I know who you are.  Yes.  The Archchancellor has advised me, yes.  
+Very well, what can I do for you today?  Are you seeking books?  I cannot, of course, permit you to check them out, circumstances being what they are.
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Inquire about Spellbooks</Q>
+<A>!BOOKS</A>
+
+<Q>Who are you?</Q>
+<A>
+My name is Professor Semicus-- ah, obviously that's not my _iname_i so much as my occupation, although I suppose it sort of includes my name, partly.  Um.  Ahem.  Yes.
+I teach history.  I'm also technically the university, ah, Librarian, yes, since the Archchancellor believes that getting one person to do two, ah, jobs is a great way of avoiding tedious job-interviews.  
+I don't mind, though.  Why, I must've read every book in this library a dozen times!  Go ahead, pick one and ask me about it.
+</A>
+
+<Q>The Library</Q>
+<A>
+Yes, well, hum, unfortunately the library's lending is closed at the moment while we inventory some, ah, of the more dangerous volumes.  The claim is a few have gone missing.  This is absurd, as I have been-- what's the word-- vigilant! at my post.  All that aside, I cannot lend any books, by order of the, ah, Archchancellor, yes.
+Now if you need to inquire about a particular, ah, volume, I have a great deal knowledge of the contents, yes.  So long as you don't expect me to rattle off tables of logarithms or recite geneologies, I can give you a great deal of the information you might have, ah, sought, if the library was still lending.
+</A>
+
+<Q>The Manticore Plaque</Q>
+<A>
+Oh, the Archchancellor's Manticore?  Yes, the plague is written in Obtuse.  Are you familiar with Obtuse?
+It was invented by Conchiphus, ah, Obfuscate himself, for the purposes of making writing less communicative, yes.  Helps keep the, ah, magical secrets, you know.  I believe it takes twelve full semesters of intense study before you can begin to understand, ah, the basic grammar.  Very useful for the university you know, yes.  You don't want a lot of young saucy, ah, fellows running around knowing what they're talking about without intense study and hard work now do we?  We do not.
+An interesting fact about Obtuse is, ah, that it is very verbose.  For instance, the Archchancellor's Manticore's plaque consists of over four thousand words, chiselled by a master engraver to occupy no more than three feet by two, in marble specially cursed so as to not crumble with such fine detail.
+Oh, yes, I'm sorry-- you wanted to know the translation.
+The plaque says "A Manticore."
+</A>
+
+<I>Merdalf's Hex Handbook Vol One: Elementus Ether</I>
+<A>
+Ah, the Hex Handbooks--written by the grand wizard Merdalf of Old. 
+A great magic user but, between you and me, not much of a writer.
+Much of his books are made up of angry letters to the editors of various contemporary publications, lambasting new inventions like fire and the wheel. It's usually a good idea to skip everything from pages 4 to, uh, say 200 or so.
+This volume does give some enlightening insight into Ether, though.
+You see, the Ether is technically an "unformed plane," a magical realm beneath the conventional universe.
+The best way to describe the Ether dimension is that it's a bit like bathing in purple. Occasionally bits of pure Ether manifest in our universe, in the form of magical substances. The magic missile spell, for instance, is comprised of ether-energy bolts.
+Merdalf was a bit put out by the fact that Ether is technically both a place and a substance, depending on the magical context.  Hence, this book features "Merdalf's Cat," a famous thought experiment in which Merdalf annihiliates a cat because it fails to properly define its terms.
+</A>
+
+<I>Elementus Air (For Dullards)</I>
+<A>
+Harrumph, I've read this one a dozen times, and I admit I'm still no better at wielding the Air Element.
+It's by far the trickiest spell class!  But, as this book mentions to excess, it's also rapidly becoming the most fashionable.
+Oh sure, frost and fire mages are technically more common on campus, but Air Magic's what all the under-century year old "cafe culture" students are talking about.
+I suppose it has something to do with it being a comparatively new discipline. Mages really weren't interested in wind magic while it was just a load of hot air, until some bright spark found a way to extract static charges from said air and produce lightning bolts. Enthusiasm quintupled overnight.
+The funny thing is, lightning spells aren't very compatible with being sociable. They tend to arc into whatever's nearby--trees, buildings, other people...
+I suppose that's why Air Element students seem to prefer telling other people how great their discipline is over actually practicing it. 
+</A>
+
+<I>Feeling Chill: Frost Magic</I>
+<A>
+Ah yes, this would be the story of Thorinius the Elder, the wizard who first created frost magic.
+Legend has it that, during a particularly hot summer in the First Age of Magick, Thorinius happened upon a group of small children playing happily on his lawn, and vowed to put a stop to it.
+Not wanting the mess of maiming these children with one of his famous fire spells, Thorinius hit upon the idea of removing heat rather than providing it.
+His new ice hex quickly ended the summer, along with its irritating happy people. 
+Subsequently, Thorinius held quite the profitable monopoly on all cold-producing spells, until the Thousand Year Cooling War destroyed his business empire. Nowadays, frost magic is the second most popular of all spell types--behind fire, of course. 
+</A>
+
+<I>Merdalf's Hex Handbook Vol Five: Elementus Earth</I>
+<A>
+Let me see here... a yes, Merdalf.  Merdalf is quite popular and his Elementus Prospectum crosses my desk frequently.
+Merdalf of Old, despite being one of the greatest wizards who ever lived, has often been lambasted for his rather... conservative... attitudes.  He liked his magic plain and simple.
+Because of this, he never had much patience for practitioners of traditional Earth Magic. 
+All wizards have a bit of an affinity for earth, because we spend so much time standing on it. In Merdalf's time, it was rather regarded as peasant magic, and used mainly in healing charms-- channelling the power of growth and life from the soil and so forth.
+Merdalf's genius, catalogued at length in this 900 page volume, was realising that the category "earth" must include by extension rocks, boulders and indeed volcanoes.
+Thanks to him, Earth Magic quickly outgrew its "healing ghetto" and became a respectably dangerous wizarding practice.
+Interestingly, if you read the epilogue, you'll find Merdalf never really came around to liking the Earth Mages; his desire to shift their focus was mostly motivated by a chronic fear of universal healthcare.
+</A>
+
+<I>The Mythology of Theft: Fire</I>
+<A>
+This book is a fairly lengthy essay on the story of twin brothers Prometh-Ias and Promith-Ian.
+While Prometh-Ias tried to steal fire from the Gods, and subsequently suffered a very nasty fate, Promith-Ian simply borrowed it at a very reasonable 1.05% rate of interest, and later made quite the tidy profit leasing it out to man.
+A little known fact this book mentions--the reason fire spells involve lots of hand rubbing and waving is that they need a bit of natural heat to get going.
+In the old days, wizards used to light a match, until we realised that even the slightest palm friction is enough to start a flame reaction.
+For more information on that discovery, see: "The Accidental Eunuchs," by P. Thommius.
+</A>
+
+<I>Lace! The Scarlet Witch's Stocking</I>
+<A>
+Oh, is that--how on Earth did that get there? Uh, vulgar trash, of course. Here, give it to me, I'll just... put it somewhere safe so that I can destroy it later.
+</A>
+
+
+

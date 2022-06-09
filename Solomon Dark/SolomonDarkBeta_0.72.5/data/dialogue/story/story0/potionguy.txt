@@ -1,0 +1,10 @@
+<NAME>Fomentius</NAME>
+
+<INTRO> 
+Hello Hello!
+Can I interest you in a high quality and _ivery legal_i herbal potion? Brewed with all the best natural magicks, minimal chance of causing intestinal combustion.
+Or how about a map? I've got maps of places that barely even _iexist_i...
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Buy</Q>
+<A>!BUYPOTIONS</A>

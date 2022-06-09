@@ -1,0 +1,16 @@
+<NAME>Hagatha</NAME>
+
+<INTRO>
+All right then wizard, what do you need?
+I have a wide variety of charms, blessings, curses and talismans.  Good for the digestion, good for the soul.
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Buy Charms and Curses</Q>
+<A>!BUYPERKS</A>
+
+<Q>Your Prices</Q>
+<A>
+Well, see here: Mixing up these things is a lot of work.
+But it's a lot _iless_i work once I've opened the right bags and cleaned the right tools and measured out the right ingredients.
+So, fair do's, my embellishments are a lot less expensive if I've mixed them up recently.
+</A>

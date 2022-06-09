@@ -1,0 +1,54 @@
+<NAME>The ArchChancellor</NAME>
+<INTRO>
+SAY_ARCHCHANCELLOR1
+Oh, good morning, do help yourself to a glass of brandy.  While you're at it, help me to one as well.
+Now then, you are likely wondering why I have summoned you.  In fact, I want you to go out and destroy one of our recent graduates.
+Have you heard the name Solomon Dark?  Yes?  Well, our Solomon Dark is beginning to make a bit of a mess.  Despite the official line, the disturbances on the edge of Dratmoor are _inot_i a natural phenomenon.  
+Solomon Dark is dabbling in necromancy.  He's upsetting the peasants, and setting off every magical alarm bell we have in this university.
+We've sent several junior mages out to settle things down, but none have returned, at least not in any useful form.  Although Solomon Dark was not an exemplary student, we are beginning to suspect that we have underestimated him.  
+Things took an even less pleasant turn recently when some king began threatening to get involved.  We'd rather kings didn't bother holding opinions on wizards, so I want you to find and dispatch Solomon Dark yourself.
+It goes without saying that this is confidential.  We're trying to downplay the university's role in training a, er, potential force of evil.
+</INTRO>
+
+<Q>Why me?</Q>
+<A>
+You are a full and honored member of this school's faculty, and a fourth-circle wizard.
+Since Solomon Dark appears to have gotten the upper hand with the junior faculty, we feel it is time to meet him, mage for mage.
+</A>
+
+<Q>About Solomon Dark?</Q>
+<A>
+Well.  I know more about Dark than some.  I was not yet Archchcancellor while he was here.  I was a mere Advanced Senior Supervisory Professor With Additional Honours.
+At one point, I happened to teach a Demonoscopy class with Dark in attendance.
+On the days he bothered coming in, he seemed friendless and malicious.  Oh, and he dressed entirely in black, with black eye liner, studded black gauntlets, and a robe covered in blazing pentagrams.
+In retrospect those were probably bad signs, but this _iis_i a Wizarding College.  And he did switch over to purple eventually.
+We're trying to arrange a more complete dossier on him, but there have been complications.  A great number of his classmates died shortly after he graduated.
+In further retrospect, this could also have raised some alarm bells.
+All we know now is that he's out prowling graveyards and lurking around the old tower up on Mount Awful.  Fairly typical Dark Lord pattern.
+Though his academic certifications are mundane, we are considering him dangerous.  Take precautions.
+</A>
+
+<Q>What about Collateral Damage?</Q>
+<A>
+I'm glad you asked.
+Normally, we don't mind if wizards out on errands blow up the odd house, village, town, tectonic plate... but in this case, we're already dealing with this King's preposterous temper.
+When you find Solomon Dark, please try to keep any property damage down to an absolute minimum.
+</A>
+
+<Q>Do I get any help?</Q>
+<A>
+Yes, ahem.  I've summoned a consulting witch from Heck Hollow.  If you can look past her character and appearance, she can be quite charming.
+Employing a witch is unorthodox and offensive, I know, but she has access to certain practical charms that would be beneath a wizard's dignity to cast.
+Also, you'll have full access to the inventory of the college scavenger.  I believe he has recovered a few artifacts from the earlier encounters with Mr. Dark.  He is also quite a nice fellow, once you get used to the smell.
+You'll find both of them out in the courtyard.  Oh, and see that you speak with the Annalist so your victory can be chronicled.
+</A>
+
+
+<Q>What about this King?</Q>
+<A>
+I hope this question doesn't imply a lack of attention paid to your Non-Wizarding History and Politics module!
+I jest, of course. No self-respecting mage ever had the slightest interest in that class. I'd tell Professor Semicus to stop teaching it, but then he might lecture us over faculty lunches.
+The Peasant Provinces of Man are under the stewardship of a King and his Royale Court, for some reason.  There's probably more to it than that, but I'm not Professor Semicus!
+The King leaves us alone, we leave him alone, all parties are satisfied, and nothing has to be blown up.
+When an imbecile like Solomon Dark comes along, it upsets the balance... I actually had to _ispeak_i to this king.  The whole situation is appalling.
+</A>

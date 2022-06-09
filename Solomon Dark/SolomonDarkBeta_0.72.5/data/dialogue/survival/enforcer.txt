@@ -1,0 +1,7 @@
+<NAME>Mallison</NAME>
+
+<INTRO>
+Don't disturb me, can't you see I'm writing up a citation?
+This wizard is violating fully sixteen of the college by-laws.
+Now stop loitering!
+</INTRO>

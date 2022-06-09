@@ -1,0 +1,54 @@
+//
+// Raptisoft Magic Jukebox File Format
+//
+// song=[songname]:[offset]
+// track=[trackname]:[channel],[channel],[channel],...
+// 
+// HOW TRACKS WORK
+// Say you have the following configuration:
+//
+// song=AwesomeSong:0x0000000
+//	track=HappyTrack:5,6
+//	track=SadTrack:8,9
+//	track=IndifferentTrack:10,11
+//
+// How it works:
+// If you say "play a track" it will go through the entire track list,
+// and mark every channel defined as 'go silent.'  (So, any channel not
+// listed in a track will remain on).
+//
+// Then, the channels in the track specified will be marked "don't go
+// silent."  The next update, the program looks them over, and processes them.
+// 
+//
+song=prelude:0
+song=combatprelude:5
+	track=base:1,2,3,4,5,6
+	track=combat:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+	track=heavycombat:7,8,9,10,11,12,13,14,15,16,17,18,19,20
+	track=danger:17,18,19,20,21,22,23,24
+	track=glory:25,26,27,28,29,31,31,32
+song=combat:6
+	track=base:1,2,3,4,5,6
+	track=combat:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+	track=heavycombat:7,8,9,10,11,12,13,14,15,16,17,18,19,20
+	track=danger:17,18,19,20,21,22,23,24
+	track=glory:25,26,27,28,29,31,31,32
+song=boss_aggressive:58
+	track=base:1,2,3,4,5,6
+	track=combat:7,8,9,10,11,12,13,14,15,16
+	track=heavycombat:7,8,9,10,11,12,13,14,15,16,17,18,19,20
+song=boss_squirmy:70
+	track=base:1,2,3,4,5,6
+	track=combat:7,8,9,10,11,12,13,14,15,16
+	track=heavycombat:7,8,9,10,11,12,13,14,15,16,17,18,19,20
+song=boss_gargantuan:82
+	track=base:1,2,3,4,5,6
+	track=combat:7,8,9,10,11,12,13,14,15,16
+	track=heavycombat:7,8,9,10,11,12,13,14,15,16,17,18,19,20
+song=solomondarktheme:95
+song=selection:116
+song=academy:101
+song=death:118
+song=deathguitar:122
+song=academyold:126

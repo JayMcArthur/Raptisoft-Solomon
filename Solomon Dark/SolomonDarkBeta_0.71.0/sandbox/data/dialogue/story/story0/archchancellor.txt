@@ -1,0 +1,37 @@
+<NAME>The ArchChancellor</NAME>
+<INTRO>
+SAY_ARCHCHANCELLOR1
+Oh, good morning, do help yourself to a glass of brandy.  While you're at it, help me to one as well.
+Now listen carefully.  Ten.  Dead.  Mages.  Have I got your attention?
+All right then.  We have a wizard problem, and it's getting worse.  One of our recent graduates has, let us say, succumbed to the temptations of power.
+Have you heard the name Solomon Dark?  Yes?  Well, our Solomon Dark is beginning to make a bit of a mess.  Despite the official line, the disturbances at the edge of Dratmoor are _inot_i a natural phenomenon.
+There are reports of Solomon Dark desecrating graves and barrows all over the place.  We've sent several junior mages out to bring things under control, but none have returned-- at least, not in any useful form.
+The entire situation is eroding, and I want you to settle it.  Find Solomon Dark, and deal with him.
+</INTRO>
+
+<Q>About Solomon Dark</Q>
+<A>
+Well.  I know more about Dark than some, for I was not yet Archchcancellor when he was here.  I was a mere Advanced Senior Supervisory Professor With Additional Honours.
+I happened to teach a Demonoscopy class with Dark in attendance.
+On the days he bothered coming in, he seemed friendless and malicious.  Oh, and he dressed entirely in black, with black eye liner, studded black gauntlets, and a robe covered in blazing pentagrams.
+In retrospect those were probably bad signs, but this _iis_i a Wizarding College.  And he did switch over to purple eventually.
+We're trying to arrange a more complete dossier on him, but there have been complications.  A great number of people who knew him died shortly after he graduated.
+In further retrospect, this could also have raised some alarm bells.
+All we know now is that he's out prowling graveyards and building a Dread Tower up on Mount Awful.  Fairly typical Dark Lord pattern, no surprises yet.
+Though his academic certifications are mundane, we are considering him dangerous.  Take precautions.
+</A>
+
+<Q>Collateral Damage</Q>
+<A>
+I'm glad you asked.
+Normally, we don't mind if wizards out on errands blow up the odd house, village, town, tectonic plate... but in this case, we're already dealing with some bad press because of the university's role in training a, er, potential force of evil.
+When you find Solomon Dark, please try to keep any property damage down to an absolute minimum.
+</A>
+
+<Q>Assistance</Q>
+<A>
+Of course.
+You'll have full access to the inventory of the Official Unreal Crime Scene Investigator.  I believe Luthacus has recovered a few artifacts from earlier encounters with Mr. Dark.  They may prove useful!
+Professor Semicus is tending the library, and can provide you with access to some books.
+Oh, and see that you speak with the Annalist so your victory can be chronicled.
+</A>

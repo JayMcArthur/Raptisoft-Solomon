@@ -1,0 +1,33 @@
+<NAME>Fomentius</NAME>
+
+<INTRO> 
+Hello Hello!
+Can I interest you in a high quality and _ivery legal_i herbal potion? Brewed with all the best natural magicks, minimal chance of causing intestinal combustion.
+Or how about a map? I've got maps of places that barely even _iexist_i...
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Buy</Q>
+<A>!BUYPOTIONS</A>
+
+<Q>Potions and Maps?</Q>
+<A>
+Well, most of the potions you can buy around here aren't worth spit.  But I have a natural talent, and my own concoctions are far superior.
+Endowed with such skill, why am I selling out of this little stand?
+Well, fearing my talent, the Brewer's Guild has denied me my trade license.  But a man of my caliber is hardly going to be stopped by petty restrictions.
+Since the Guild refuses to provide the ingredients I need, I search them out myself.  I keep charts of all the exciting new lands I discover along the way, available to you at low cost!
+...The Cartographer's Guild doesn't like this much, but guys who can poison don't have to pay dues, I explained.
+</A>
+
+<Q>Solomon Dark?</Q>
+<A>
+Ah yes, Solomon Dark.  I believe he was in one of my classes.
+I tend not to think too highly of people who aren't me, but I hear he turned out to be rather gifted in the end.  Hope that works out for him.
+</A>
+
+<Q>Any tips?</Q>
+<A>
+It is wise that you ask for my counsel, as I am naturally far better equipped to enlighten than any of these others.
+The most useful advice I can offer you is that it is vitally important to find your own path through life, free from other people's biases, and thus you should ignore all advice.
+</A>
+
+

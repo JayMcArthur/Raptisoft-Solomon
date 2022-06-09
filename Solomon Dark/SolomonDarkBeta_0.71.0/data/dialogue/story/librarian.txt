@@ -1,0 +1,244 @@
+<NAME>Professor Semicus</NAME>
+
+<INTRO>
+Oh, hum, good morning.  Is it morning?  Well then, good morning, student.  Are you a student?  No, you're faculty, aren't you?
+Just a moment, I know who you are.  Yes.  The Archchancellor has advised me, yes.  
+Very well, what can I do for you today?  Are you seeking books?  I cannot, of course, permit you to check them out, circumstances being what they are.
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Inquire about Books</Q>
+<A>!BOOKS</A>
+
+<Q>Who are you?</Q>
+<A>
+My name is Professor Semicus-- ah, obviously that's not my _iname_i so much as my occupation, although I suppose it sort of includes my name, partly.  Um.  Ahem.  Yes.
+I teach history.  I'm also technically the university Librarian, since apparently not enough people attend my lectures to justify a salary, and the Archchancellor is of the opinion that getting one person to do two jobs is a great way of avoiding tedious job-interviews.  
+I don't mind, though.  Why, I must've read every book in this library a dozen times.  Go ahead, pick one and ask me about it.  Go on, any book.
+</A>
+
+<I>Merdalf's Hex Handbook Vol One: Elementus Ether</I>
+<A>
+Ah, the Hex Handbooks--written by the grand wizard Merdalf of Old. 
+A great magic user but, between you and me, not much of a writer.
+Much of his books are made up of angry letters to the editors of various contemporary publications, lambasting new inventions like fire and the wheel. It's usually a good idea to skip everything from pages 4 to, uh, say 200 or so.
+This volume does give some enlightening insight into Ether, though.
+You see, the Ether is technically an "unformed plane," a magical realm beneath the conventional universe.
+The best way to describe the Ether dimension is that it's a bit like bathing in purple. Occasionally bits of pure Ether manifest in our universe, in the form of magical substances. The magic missile spell, for instance, is comprised of ether-energy bolts.
+Merdalf was a bit put out by the fact that Ether is technically both a place and a substance, depending on the magical context.  Hence, this book features "Merdalf's Cat," a famous thought experiment in which Merdalf dislikes a cat because it fails to properly define its terms.
+</A>
+
+<I>Ethics and Magic: A Moral Philosophy</I>
+<A>
+Hrm, you're interested in this one?  Let me see here, it's rarely requested, so the binding is a bit stiff.
+"Don't get caught."
+No, that wasn't a summary, that's the entire book.
+</A>
+
+<I>The Mythology of Theft: Fire</I>
+<A>
+This book is a fairly lengthy essay on the story of twin brothers Prometh-Ias and Promith-Ian.
+While Prometh-Ias tried to steal fire from the Gods, and subsequently suffered a very nasty fate, Promith-Ian simply borrowed it at a very reasonable 1.05% rate of interest, and later made quite the tidy profit leasing it out to man.
+A little known fact this book mentions--the reason fire spells involve lots of hand rubbing and waving is that they need a bit of natural heat to get going.
+In the old days, wizards used to light a match, until we realised that even the slightest palm friction is enough to start a flame reaction.
+For more information on that discovery, see: "The Accidental Eunuchs," by P. Thommius.
+</A>
+
+<I>The Magenta Man's Burden</I>
+<A>
+The library holds the only known copy of this book--the genuine diary of Kyblybork Vkar Knaargh, which loosely translates to "Apocalypdeath the Destroyer."
+Knaargh was exiled to our universe from one of the various Hell dimensions, and took it upon himself to "civilise" humans--and by civilise, I mean mind control. Fortunately, he was slain by Qlthulu Fnkan, a Chaos Monger who had himself been exiled from a _islightly different_i Hell realm.
+This sort of thing used to happen quite often in the First Age of Magick, until the wizards of the day finally got fed up.
+By way of retaliation, they invented the Hell-Targeting Sewage Disposal Portal, also known as the "some other dimension's problem toilet."
+Pretty soon after that, the Hell dimensions stopped dumping their trash on our metaphorical lawn.
+</A>
+
+<I>The Book of A Thousand Madnesses</I>
+<A>
+Ah, now this book-- an interesting book, I'm told.  However, that's not very reliable information, since everyone who has read it has gone mad.
+In fact... wizards probably shouldn't read this one. I keep meaning to move it to a higher shelf.
+</A>
+
+<I>The Brothers Karagrimm</I>
+<A>
+It raises my spirits to see young people inquire about the classics!
+Brothers Karagrimm is the story of two brothers who get into a fight over an enchanted apple tree.
+Whenever one manages to win the tree, the other sacrifices everything to get it back.
+Soon, both brothers have lost all they ever held dear-- their jobs, their friends, their families... then, as the tree gets struck by lightning, the brothers realise the futility of their obsession, and die together in despair.
+In the end, it turns out a wizard did it, because he was tired of all the noise.
+</A>
+
+<I>Elementus Air (For Dullards)</I>
+<A>
+Harrumph, I've read this one a dozen times, and I admit I'm still no better at wielding the Air Element.
+It's by far the trickiest spell class!  But, as this book mentions quite a lot, it's also rapidly becoming the most fashionable.
+Oh sure, frosties and fire mages are technically more common on campus, but Air Magic's what all the under-century year old "cafe culture" students are talking about.
+I suppose it has something to do with it being a comparatively new discipline. Mages really weren't interested in wind magic while it was just a load of hot air, until some bright spark found a way to extract static charges from said air and produce lightning bolts. I'm sure I don't have to tell you why _ithat_i discovery took off. 
+The funny thing is, lightning spells aren't very compatible with being sociable. They tend to arc into whatever's nearby--trees, buildings, other people...
+I suppose that's why Air Element students seem to prefer telling other people how great their discipline is over actually practicing it. 
+</A>
+
+<I>A Solstice Story</I>
+<A>
+Hmph, a bit of a pulp read, this is.
+It's the story of an old miser who is visited by the ghosts of three wizards.
+They warn him away from his penny pinching ways, the miser reforms, and gives all his money away to a charity run by a local circle of warlocks.
+Based on a true story, I believe. 
+</A>
+
+<I>Feeling Chill: Frost Magic</I>
+<A>
+Ah yes, this would be the story of Thorinius the Elder, the wizard who first created frost magic.
+Legend has it that, during a particularly hot summer in the First Age of Magick, Thorinius happened upon a group of small children playing happily on his lawn, and vowed to put a stop to it.
+Not wanting the mess of maiming these children with one of his famous fire spells, Thorinius hit upon the idea of removing heat rather than providing it.
+His new ice hex quickly ended the summer, along with its irritating happy people. 
+Subsequently, Thorinius held quite the profitable monopoly on all cold-producing spells, until the Thousand Year Cooling War destroyed his business empire. Nowadays, frost magic is the second most popular of all spell types--behind fire, of course. 
+</A>
+
+<I>MacBlandish</I>
+<A>
+This one is about a common soldier in Highland Province.  
+He is told by witches that he is destined to ascend to the throne--but first, he must kill the King!
+The soldier knows better than to trust witches, and so goes home and takes up gardening instead.
+The rest of the book is an excellent guide to raising your own chrysanthemums. 
+</A>
+
+<I>Wizards in History: The Mild Embarrassment</I>
+<A>
+This book chronicles some rather... regrettable actions during the Second Age of Magick. If you ever wondered why that period is sometimes called the Age of Poor Decisions, this is the reason. 
+At the time, wizards more or less ignored ordinary people in favour of fighting amongst themselves.
+Then one peasant village, in a fit of sudden pique, decided to hold a witch hunt.
+By some miracle, they actually managed to catch and hang a rather senile warlock who happened to be fishing nearby. This didn't go down well with the magic community, and the infuriated wizards decided to take charge of, uh... the world.
+To make a long story short, the wizards were very poor at management.
+They tried giving everyone infinite gold, and so all the economies collapsed. They tried being dictators, but didn't have the necessary attention span.
+Eventually, at the start of the Third Age of Magick, the wizards declared that they'd had enough, ordered the remaining humans to elect a king or something, and retreated into higher pursuits.
+And so the modern world was born! 
+</A>
+
+<I>Wizards in History: The Great Censure</I>
+<A>
+Ah-ah! I wrote this one!  Glad to see it in the rotation!
+It took three years of intensive research, two years writing time and fourteen years of pre-publication peer review.
+The first print run was only seven strong, but they were a _idamn good_i seven. The university publishing house has assured me that they're still considering a second run.
+The Great Censure took place just after the terrible Wizard World War, at the end of the First Age of Magick.
+In the conflict's aftermath, all Wizard-to-Wizard communication was presaged by a posted note, at least twelve pages long, apologising for any property damage or attempted killing partaken of during the war.
+Unfortunately, Wizards aren't very good at apologies, and the increasingly obvious sarcasm involved in each note quickly led to the Second, Third and Fourth through Ninth Wizard World Wars.
+</A>
+
+<I>Wizards in History: We Didn't Need Two Moons</I>
+<A>
+This one was written by the infamous wizardly historian Diniviym Bind, who, if you ask me--and this is just _imy_i opinion- is a brain rotting hack who deserves slow bloody death by a thousand agonising cuts.
+Not only did he write this book while I was working on the same topic, he used a _itime travel_i spell to do his research, which is cheating on multiple levels.
+The book's barely worth reading anyhow--it's just the old story of that time First Age wizards accidentally blew up one of the twin moons, which-- if you ask me-- isn't half the crime modern historians make out. We still have one moon left, and frankly, I think even that's extravagant--we barely use it!
+Not an important topic, not worth researching, and certainly not worth blighting your soul with the knowledge that you endangered all of causality just so you could publish first.
+</A>
+
+<I>The Rime of Sovereign Sea</I>
+<A>
+This was contemporary fiction about two hundred years ago.  Most describe it as a sort of cautionary tale, replete with allegory.
+After a fishing mission goes tragically awry, the captain of a longship becomes obsessed with hunting down the Songwhale that ate his foot.
+Meanwhile, the whale lays siege to a beachside town in the middle of tourist season-- the town's greedy governor refuses to heed the danger and close his beaches, and so many are killed.
+Later, the whale is captured and put on show in a zoo, but a young boy takes pity on the creature and sets it free.
+</A>
+
+<I>How to Win Friends and Immolate People</I>
+<A>
+This book is a bit of a dense read--especially the 93 page speech in the middle, where the main character just goes on and on about his own consummate greatness.
+Essentially, the book is about a young man whose genius gifts are not fully appreciated by his obtuse peers, and so he lashes out by bringing entirely justified doom down on all of them, often while speaking at great length about the essential role of payback in a free society.
+Curious. Someone seems to have gone through the pages and underlined multiple sections, particularly the bits on "doom." An eager student, I suppose. They even initialled it: "S.D."  
+Hmph. I hate it when students touch the books, they really shouldn't be allowed to.
+</A>
+
+<I>Merdalf's Hex Handbook Vol Five: Elementus Earth</I>
+<A>
+Let me see here... a yes, Merdalf.  Merdalf is quite popular and his Elementus Prospectum crosses my desk frequently.
+Merdalf of Old, despite being one of the greatest wizards who ever lived, has often been lambasted for his rather... conservative... attitudes.  He liked his magic plain and simple.
+Because of this, he never had much patience for practitioners of traditional Earth Magic. 
+All wizards have a bit of an affinity for earth, because we spend so much time standing on it. In Merdalf's time, it was rather regarded as peasant magic, and used mainly in healing charms-- channelling the power of growth and life from the soil and so forth.
+Merdalf's genius, catalogued at length in this 900 page volume, was realising that the category "earth" must include by extension rocks, boulders and indeed volcanoes.
+Thanks to him, Earth Magic quickly outgrew its "healing ghetto" and became a respectably dangerous wizarding practice.
+Interestingly, if you read the epilogue, you'll find Merdalf never really came around to liking the Earth Mages; his desire to shift their focus was mostly motivated by a chronic fear of universal healthcare.
+</A>
+
+<I>How to Train Your Chosen One</I>
+<A>
+Ah, this is a guidebook for senior wizards.
+There tend to be a lot of Chosen Ones out there in the world--usually conveniently orphaned farmboys with overactive imaginations and suspiciously glowing swords.
+If you're not careful, you'll end up with one following you around. They always seem to want a wizard's approval, before going off to slay a dragon or whatever.
+It can be good for the ego, and there are usually a few free meals in it; just make sure to duck out before the hero starts getting really confident in his skills. That's the point where you, as a good mentor, will be expected to die or retire to make way for your pupil, which no self-respecting mage should even consider.
+This book actually suggests sending your charge on an impossible quest about then, and honestly, why not?
+</A>
+
+<I>The Discipline Arcane: Index</I>
+<A>
+The Arcane Discipline is a bit of a strange one. It's basically a big category to dump all the unfashionable odds and ends of wizardry into.
+Not every spell can be as clear cut as "makes things cold," or "makes things explode," ...although, thinking about it, most of them do make things explode... but the point is, the University needs a class in which to put all the spells that don't come colour coded for convenience.
+Because of this, the Arcane Index is essentially a huge list of all the weird spells that are pretty much only practiced by oddball mages who desperately want to be different. 
+</A>
+
+<I>Vie Spells Forbade</I>
+<A>
+Ah, this one is supposedly a list of forbidden magicks--Necromancy, World Merging, Income Tax--but since they're all, uh, forbidden, it's written in a runic script that will cause you to suffer a stroke if you concentrate on it.
+Glad to see that whoever checked it out this time managed to return it.
+</A>
+
+<I>Ral Qursia: The Noble Archchancellor (An Autobiography)</I>
+<A>
+This one was quite the bestseller when it came out. Just look at some of the praise on the back cover.
+"The...[Archchancellor]...is... a [great] man!" --New Pitchfork Times
+"Would consider a positive review even without the money!" --Hexington Post
+"Reading this book could save your life. From me." --Ral Qursia
+Alas, Archchancellor Qursia died in ambiguous circumstances not long ago--he was found bitten to death by a rabid Bloodhawk Bat. We went through quite a few Archchancellors that year, actually, although I was so busy with the library that I never really bothered to learn the details. 
+Historically speaking, losing high up faculty members is actually fairly rare.
+Archchancellors are very good at picking up on potential rivals years, even decades before they mature. They usually send them off to die on some impossible suicide mission, pre-emptively eliminating the threat.
+</A>
+
+<I>Elemental Welding (For Dullards)</I>
+<A>
+Ah, if this book is making the rounds, it must mean that Elemental Welding is back in vogue again.
+Every few decades, it becomes a fad. You don't find too many who master it though, it's more of a passing interest.
+This book was written last time the practice was popular, about fifty years ago, so there are quite a lot of references to music saving the world, free love, and unicorns.  What a terrible era.
+Even if some passages have dated badly, the book's factual information remains quite valid.
+Element Welding is a troublesome practice--combining two spells together usually results in a weak hybrid less effective than either ingredient.
+Some of its stronger proponents--like Tythicus the Intractable--insist that it has the potential to create superior double strength spells, but for most, the best it can manage is a damp squib and a huge mana cost.
+</A>
+
+<I>Meditation: Mastering the Mind</I>
+<A>
+Oh, this is one of those silly self-help books that gullible types are always falling for.
+It says all sorts of things about conquering your fears by focusing your mind, drinking herbal tea, and doing crossword puzzles. I like a good crossword puzzle as much as the next bicentogenarian, but the rest is all rancid hippy nonsense.
+There's even a whole section on using the power of the mind to spread calming psychic energy, which is just rubbish. Psychic magic has one use: blackmail.
+There's also some stuff about focusing your mind to maximise your mana, but I can't think of anyone who's ever managed to do anything but recover their mana slightly faster.
+Pft, when I find the student who checked this out, I'll set him straight.
+</A>
+
+<I>Discipline of the Body</I>
+<A>
+Ah, this book is one of the rare books that discuss the Body.  A worthwhile read on an uninteresting subject.
+I'm sure that you--like most mages--are firmly in the anti-physical effort camp. Why bother picking something up with your hands when you can just cast a good old fashioned telekinesis spell?
+But, mastering the body is about precision and economy.  A lot of mages waste energy flailing around to cast their spells.  With a little more physical discipline, they could easily halve the number of calories burned.
+We've devoted a whole school of magic to getting around the deficiencies of the body, and I'm told that with some of these new arcane branches of research, it'll soon be possible to experience your entire life without ever once having to get out of bed.
+</A>
+
+<I>The Sorcerer's Supremacy</I>
+<A>
+This one was fairly controversial upon its release, but has since faded into obscurity.  Odd to see it come across my desk.
+It's essentially a long-winded diatribe on the supposedly "toothless" ways of modern wizards; it goes on to state that the natural place of magic users is one of innate superiority. Mages should not sublime their powers; they should enjoy them in the most expressive, melodramatic fashions, striking perpetual fear into all non-magical inferiors, et-cetera, et-cetera.
+I think it's rather insulting to assert that academia is a waste of wizardly potential--academia is clearly a higher pursuit than petty world conquest.  And showing off your powers without peer review is so... cheap.
+Also, the chapter on enslaving all humanity is a bit grisly, although clearly at least one person seems to have liked it--it's all underlined and highlighted. Initialled, too... S.O, I think. Or possibly S.D.
+It's in pencil, I'll rub it out.
+</A>
+
+<I>The Economicon</I>
+<A>
+Ah, this is a very old old book.  Many read it, fewer comprehend it.
+It contains the secrets of making enormous amounts of money _iwithout_i associating with demons, politicians, or other infernal creatures.
+Not very popular-- while the methods therein are reported to work flawlessly, they require considerable effort.  And let's face it, it's less than a day's work to just conjure up a demon and ask for some gold.
+</A>
+
+<I>Lace! The Scarlet Witch's Stocking</I>
+<A>
+Oh, is that--how on Earth did that get there? Uh, vulgar trash, of course. Here, give it to me, I'll just... put it somewhere safe so that I can destroy it later.
+</A>
+
+
+

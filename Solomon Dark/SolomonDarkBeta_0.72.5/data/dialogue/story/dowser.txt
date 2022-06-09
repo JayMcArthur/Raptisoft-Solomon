@@ -1,0 +1,43 @@
+<NAME>Shlorio the Dowser</NAME>
+
+<INTRO>
+Good morning.
+Are you interested in what can be found within the luminiferous ether?
+My magic mirror and I are eager to assist you.  
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Dowse</Q>
+<A>!DOWSE</A>
+
+<Q>What is dowsing?</Q>
+<A>
+Dowsing is a magical process by which we can, with a properly ground mirror, probe the luminiferous ether for lost or missing items.
+It is a painstaking and inexact vocation, but those with patience find it rewarding.
+</A>
+
+<Q>What can you do for me?</Q>
+<A>
+With this mirror, I can find what you need and draw it out.
+Is there something you want-- some artifact that can't be found, something that seems to have vanished from the world utterly?
+If you know the True Name of the object, and it's not confounded, I can dowse for it.  All things exist within the ether.
+If you do not know the True Name, but have an object with a similar signature-- for instance, one part of a magical set-- I can work with that too.
+</A>
+
+<Q>What's the Luminiferous Ether?</Q>
+<A>
+It is diffult to explain to those who do not dowse.
+Some say the ether is a distinct plane of existence.
+Some say it is the fifth element, connecting all things.
+For my own purposes, the ether is the universe's lost and found bin.  If it's a plane, it's where magical detritus washes up.  If it's an element, it provides the channel through with a magical item can be drawn.
+</A>
+
+<Q>Your Prices</Q>
+<A>
+I am sure you appreciate that dowsing is an inexact science.  The price varies.
+Peering into the mirror is so mentally taxing that I must charge you even to take a look.  
+Drawing an item out causes actual physical pain, and is understandably expensive.  The price of retrieving an item will depend on how entangled it is, as well as how many burns I expect to sustain.
+Disturbing the ether changes the entire ethereal contour, so the price will fluctuate depending on the state of the firmament as well.
+</A>
+
+
+

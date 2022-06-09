@@ -1,0 +1,21 @@
+<NAME>Declarius</NAME>
+
+<INTRO>
+Welcome to the palace of _idead_i careers.
+But I shouldn't be here.
+I am Declarias--son of High Sorcerer Decantus, who famously slew the Last Unicorn... Grandson of War Wizard Delantus, who singlehandedly defeated the Frost Orphans of the North.
+Battle magic is in my veins!  I should be out inventing deadly new spells, not indoors babysitting urns.
+So.  Here's the Wizard's Memorial.  Have a look around.
+</INTRO>
+
+<Q>About Memorial</Q>
+<A>
+Well, the Archchancellor isn't telling, but it's pretty obvious.
+There's been some secret hush hush wink mission regarding an ex-graduate, and wizards started coming back dead when they came back at all.  
+I think when the count passed five someone decided we needed an official memorial to commemorate the victims.  Otherwise someone in charge might have to answer some nasty questions.
+</A>
+
+<Q>About Wizards</Q>
+<A>
+Lead me to a painting and I'll give you the official eulogy along with some suitably funereal banter.
+</A>

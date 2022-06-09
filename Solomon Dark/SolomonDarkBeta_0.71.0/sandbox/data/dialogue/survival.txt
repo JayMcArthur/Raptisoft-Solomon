@@ -1,0 +1,148 @@
+>ARCH_INTRO
+The Mission?
+Oh are you back again?  I thought we had covered things adequately a few minutes ago.
+Find Solomon Dark and bring him to justice. The reputation of the university is counting on you!
+
+>ARCH_Q
+Equipment?
+Yes, yes, in the courtyard you will find all the help you need.
+Lucritius has clothing and artifacts from some of our earlier... miscalculations.  You can take your pick of the lot.
+Hagatha the witch has some weird swamp-woman magic that is primitive and incomprehensible, but seems to work.
+
+>ARCH_DISMISS
+Dismiss
+All right then, there's a good fellow.  Carry on, find Solomon Dark, won't you?  He's certainly not in here!
+
+>ANNAL_INTRO
+The Mission?
+Well well, more grist for the mill, eh?
+I say, I hope you do better than some of these others that were sent out.
+Well, give me your name, speciality, et-cetera, and I'll see that your story is immortilized in the Annals.
+You know that recording these Annals is a frightfully dull task, right?  I don't suppose there's anything interesting or spectacular about you that could liven up my job a bit?
+
+>ANNAL_Q
+Why Boast?
+I thought you might be the rare exception that distinguishes chronicling from making laundry lists.
+You get prestige and immortality in the Annals... I get to finally write an epic!
+Everybody wins!
+
+>ANNAL_POTIONBOAST
+My boast?
+Now let me get this straight, you are telling me that you will take on this entire endeavor without once restoring or fortifying yourself with any kind of potion?
+Oh yes, now that's a bit interesting!  Good on you!  For once there will be payoff for my hand cramps and blurred vision.  Game on, then!
+
+>ANNAL_ITEMBOAST
+My boast?
+So let me understand, and this is for posterity... you're telling me that you are so confident-- overconfident?-- that you will refrain from donning even the simplest of magical items?
+Splendid!  I've made a note that you're a good sport, and I'll see to it that your pages get written in blue ink, with full illumination on the first letter.
+
+>ANNAL_SECONDARIESBOAST
+My boast?
+As I understand it, your assertion is that you will completely abstain from casting secondary magic spells?  No shields, no storms, none of that?
+Well, now you have engaged my enthusiasm.  I will chronicle your story with more adjectives than most.
+
+>ANNAL_RANDOMBOAST
+My boast?
+Hold on, hold on, you're telling me that you actually intend to invoke the Thaumaturgic Channelling and submit yourself to the will of the magic?  To take whatever chaotic skills and powers it deigns to bestow upon you?
+Madness!  But inspired madness!  And for such a feat as this, I shall delve into my limited supply of glitter ink!
+
+>ANNAL_MANABOAST
+My boast?
+Ho ho!  Not one in a hundred wizards makes this claim!  Now, if you can really pull this off, people will be cross-referencing your chapters for centuries!
+I'm excited!  It's always a pleasant surprise to meet a wizard who isn't a fussy prig.  I'll see if I can even sneak a few illustrations into your pages.
+
+>DOWSER_INTRO
+Greetings?
+Good morning.
+Are you interested in what can be found within the luminiferous ether?
+My magic mirror and I are eager to assist you.  
+
+>DOWSER_Q
+Dowsing Prices?
+I am sure you appreciate that dowsing is an inexact science.  The price varies.
+Peering into the mirror is so mentally taxing that I must charge you even to take a look.  
+Drawing an item out causes actual physical pain, and is understandably expensive.  The price of retrieving an item will depend on how entangled it is, as well as how many vapor burns I expect to sustain.
+Disturbing the ether changes the entire ethereal contour, so the price will fluctuate depending on the state of the infirmament as well.
+
+>ENFORCER_INTRO
+Greetings?
+Don't disturb me, can't you see I'm writing up a citation?
+This wizard is violating fully sixteen of the college by-laws.
+Now stop loitering!
+
+>ENFORCER_DISMISS1
+Dismiss
+Move along now before I take notice of your violation of College Grounds propriety rule 26B-theta subsection 2: Illegal hat angle.
+
+>ENFORCER_DISMISS2
+Dismiss
+Move along now before I write you up on Section 42 luxina8(z) of the University Charter: Improper facial expression.
+
+>ENFORCER_DISMISS3
+Dismiss
+Move along now before I inquire too closely about the provenance of that robe.  It looks to be a flagrant violation of University Charter section 659 ardius22(d): Improper hemming.
+
+>LIBRARIAN_INTRO
+Greetings?
+Oh, hum, hello there.  You're young Benigustus, aren't you?
+No?
+Nobody ever told you it's not polite to correct your seniors, young fellow?
+Now then, I must tell you that at this time the library is not lending books, circumstances being what they are.
+But if you are interested in a particular book, I can give you a brief synopsis.  That will have to do for the time being.
+
+>MEMORATOR_INTRO
+Greetings?
+Welcome to the palace of *dead* careers.
+Cast your eyes on these legions of lost souls.  Learn their stories that you might avoid their fate!
+Also to show respect, that too.
+
+>MEMORATOR_Q1
+This memorial?
+There's been some secret hush hush wink mission regarding an ex-graduate, and wizards started coming back dead when they came back at all.
+I think when the count passed seven someone decided we needed an official memorial to commemorate the victims.  Otherwise it might have all looked like a mistake.
+This way, it was a noble endeavor that we can all take inspiration from.
+
+>MEMORATOR_Q2
+These mages?
+Lead me to a painting and I'll give you the official eulogy along with some suitably funereal banter.
+
+>MEMORATOR_DISMISS
+Dismiss
+Just walk up to a painting and I'll burden you with the tragic story of a desperate mage.
+
+>POTIONGUY_INTRO
+Greetings?
+Hello Hello!
+Can I interest you in a high quality and *very legal* herbal potion? Brewed with all the best natural magicks, minimal chance of causing intestinal combustion!
+
+>SCAVENGER_INTRO
+Greetings?
+Pleased to meet you, mate.  I'm the College's Official Unreal Crime Scene Investigator.
+Basically, that means it's my humble jobbing duty to trudge out into the field and retrieve the remains-- and by remains, I mean little bits and pieces-- of wizards and witches who've gone and done themselves a magical mishap.  So they can get buried proper.
+Now, between you and me, there's no point burying the dead with all their stuff, eh?  They don't need it.  Other people might.  Have a look here and see if there's anything you can use.  By order of the Archchancellor, o'course.
+
+>TEACHER_INTRO
+Greetings?
+Oh hello.
+Don't mind me, if you stay outside the circle you're *perfectly safe.*
+I'm just testing a few of the experimental spells that students have come up with over the years.
+No, no-- don't ask me to teach you these spells.  It would be both unethical and dangerous.  Many have asked, none recieve.
+Yes, yes, you hunger for these spells *now*, I can see it.  But alas, they're not ready yet.  I am a professional, and it would take considerable *persuasion* to get me to put them on the roster early.
+
+>TEACHER_Q
+Spell Testing?
+Well, first we test the spells within a magic circle-- that's what I'm doing right now.  Just need to make sure it doesn't destroy the whole universe, you know.
+If that works, we move up to testing on demons.  If all is successful there, we test on animals, then humans.
+I'll be done with that in a few days.  It's the peer review, certification, licensing, and MAG approval that takes the brunt of the time.
+
+>WITCH_INTRO
+Greetings?
+All right then wizard, what do you want?
+I have a wide variety of charms, blessings, curses and talismans.  Good for the digestion, good for the soul.
+
+>WITCH_Q
+Charm Prices?
+Well, see here: Mixing up these things is a lot of work.
+But it's a lot *less* work once I've opened the right bags and cleaned the right tools and measured out the right ingredients.
+So, fair do's, my embellishments are a lot less expensive if I've mixed them up recently.
+

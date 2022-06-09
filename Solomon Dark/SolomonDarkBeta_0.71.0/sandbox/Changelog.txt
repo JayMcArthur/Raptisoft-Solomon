@@ -1,0 +1,90 @@
+BETA 0.71
+o Removed a hardware acceleration setting that may have been causing random crashes on some systems
+
+BETA 0.70
+o Closed Beta 1
+
+BETA 0.67
+
+o Made Annalist's boast system work
+o Set up all "survival mode" university dialogue
+o Added some more items
+	
+
+BETA 0.66
+
+******* THINGS THAT DON'T WORK ************************************************
+
+o The Annalist's boast system is more or less offline.  He'll let you boast, but you won't get the cred.
+o All voices are in a state between finished/unfinished
+o Dialogue of everyone in the university is unrefined, and some are connected to the wrong conversations
+o Story mode is disabled
+o Not all items are in
+
+******* CHANGES ************************************************
+
+o Tweaked golem's behavior
+o Added "Iron Golem" buyable spell enhancement for Golem
+o Added keys and unlockable crypts
+o During levelup (while the light glows) you now only take 1/10th of damage
+o Phasing has been turned from a passive skill into a usable skill, which phases you in the direction you're facing (good for getting out of crowds).
+o The Call Comet spell has been added (see yellow wizard to buy)
+o When you are out of potions, are grossly surrounded, and no health potions are on the playfiend, the chance of a monster dropping a health potion increases a lot.
+o Put in a fix for the weird Solomon behavior where he runs around like a maniac instead of running offscreen
+o Debug gold quantities are still on, NOT A BUG.
+o Took out the debug "wave n" popup
+o The Tutorial got some enhancements
+o Tweaked zombie damage to prevent the "surprise!  You're dead!" situation.
+o Tweaked ghost behavior to make them less insta-killy
+o Higher level archer waves tweaked in difficulty
+o Added spiders
+o Antidote now also confers 10 seconds of poison immunity in addition to curing poison
+o Made the red haze when you near death more prominent
+o Added Imp portals
+o Put in the new voices for the tutorial
+o Removed the debug key to level up the wizard, after widespread abuse
+o Your wizard now goes "ouch" when he gets hurt, and this increases in volume as you near death.
+o Duration of mage-skeleton bolts has been reduced by 35%
+o Game defaults to highest possible windowed resolution on first run now
+o Added some Solomon stuff
+o Levelup screen now shows level
+o You can invoke the secret ending animation by holding down ~ (has to be down at the instant you die).
+o Survival game features the following random events (random meaning, they may or may not be rolled in)
+  (For evaluation purposes, holding down ~ when starting a game will force all possible 
+  scenarios happen... start holding it BEFORE you click play in the college)
+
+	1. Small wave of zombies or tiny wave of spiders around wave 4-6
+	2. Small wave of spiders around wave 8-12
+	3. A miniboss somewhere between 10-18, but before Heartmonger
+	4. An imp portal attack somewhere between wave 22-30
+	5. A larger wave of spiders somewhere between wave 25-35
+	6. A miniboss somewhere between 25-34, but before the Dire Faculty
+
+******* DID YOU KNOW? ************************************************
+
+1. You can drag almost anything into the belt slots at the bottom.  For instance, if you have two suits of clothing that you find are useful for two different situations, put the whole suit into a bag, and drag the bag to a belt slot.  If you activate that slot, you'll switch the whole suit, and what you're currently wearing will go in the bag.
+
+2. Switching concentrations is an advance play technique.  Every passive skill can be "concentrated" on, giving a special bonus.  Putting passive skills into your belt and activating those slots will switch your concentration to that skill.
+
+3. When you die, your entire inventory goes into a holding place in the college.  This allows you to accumulate better gear from game to game.  The purple wizard sitting on the chest will give you access-- he's also available from the quick menu when you start the game.  The one exception is if you cast an ether drain and manage to get yourself sucked into it.  Nobody can recover your body from that dimension.
+
+4. If you find a piece of equipment that is part of a set, you can play the game to find other parts of the set, OR, you can visit the Dowser in the library (also available from the quick menu).  The dowser can take an existing piece of equipment and try to find something with a similar fingerprint within the ether.  But it's expensive, because it gives him a headache.
+
+5. The yellow wizard in town can be persuaded to add experimental spells to the roster before they've gone through full testing.
+
+6. The witch in town sells charms, which basically are strange powerups that can help you out during the game.  You can only buy three powerups, but if you buy her special tonic, you can make room in your mind for more.  You need to buy the tonic to occupy an actual powerup slot, though.
+
+******* SPECIAL NOTES ************************************************
+
+1. I plan to put some tooltips on the character creation screen to help people choose things. For now, know that element is your attack skill, and discipline is your most likely other skill group to get. Mind helps recover mana and resist magic, Body helps get more health and speed, Arcane provides access to several on-elemental spells that are quite useful.  When rolling skills, the game will give you at least one from your element or discipline, everything else is 100% random.  So when you pick a discipline, you're saying "I want a higher chance of rolling these."
+
+2. The Annalist (brown wizard) does not work yet.  If you make a boast to him, they WILL activate, but nothing will be set in the meta-game to indicate you completed the boast.
+
+3. There are only a few rare, epic, and set items at this time.  It is not appropriate to provide feedback in the form of "there needs to be more cool items."  BUT, if there's a special item you'd like to see in, like you have some idea for a cool thing or see a niche that you definitely want filled with items or an item set, let me know.
+
+
+
+
+BETA 2
+
+o This was before I started keeping the changelog.  God only knows what changed here.

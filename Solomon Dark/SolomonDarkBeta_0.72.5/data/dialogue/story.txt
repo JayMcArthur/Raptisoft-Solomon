@@ -1,0 +1,243 @@
+//
+// Level 0...
+// Intro stuff.  Here characters set the stage.
+//
+
+>ARCH_INTRO_0
+Greetings?
+Oh, good morning, do help yourself to a glass of brandy.  While you're at it, help me to one as well.
+Now listen carefully.  Ten.  Dead.  Mages.  Have I got your attention?
+All right then.  We have a wizard problem, and it's getting worse.  One of our recent graduates has, let us say, succumbed to the temptations of power.
+Have you heard the name Solomon Dark?  Yes?  Well, our Solomon Dark is beginning to make a bit of a mess.  Despite the official line, the disturbances at the edge of Dratmoor are *not* a natural phenomenon.
+There are reports of Solomon Dark desecrating graves and barrows all over the place.  We've sent several junior mages out to bring things under control, but none have returned-- at least, not in any useful form.
+The entire situation is eroding, and I want you to settle it.  Find Solomon Dark, and deal with him.
+
+>ARCH_Q1_0
+Solomon Dark?
+Well.  I know more about Dark than some, for I was not yet Archchcancellor when he was here.  I was a mere Advanced Senior Supervisory Professor With Additional Honours.
+I happened to teach a Demonoscopy class with Dark in attendance.
+On the days he bothered coming in, he seemed friendless and malicious.  Oh, and he dressed entirely in black, with black eye liner, studded black gauntlets, and a robe covered in blazing pentagrams.
+In retrospect those were probably bad signs, but this *is* a Wizarding College.  And he did switch over to purple eventually.
+We're trying to arrange a more complete dossier on him, but there have been complications.  A great number of people who knew him died shortly after he graduated.
+In further retrospect, this could also have raised some alarm bells.
+All we know now is that he's out prowling graveyards and building a Dread Tower up on Mount Awful.  Fairly typical Dark Lord pattern, no surprises yet.
+Though his academic certifications are mundane, we are considering him dangerous.  Take precautions.
+
+>ARCH_Q2_0
+Collateral Damage?
+I'm glad you asked.
+Normally, we don't mind if wizards out on errands blow up the odd house, village, town, tectonic plate... but in this case, we're already dealing with some bad press because of the university's role in training a, er, potential force of evil.
+When you find Solomon Dark, please try to keep any property damage down to an absolute minimum.
+
+>ARCH_Q3_0
+Assistance?
+Of course.
+You'll have full access to the inventory of the Official Unreal Crime Scene Investigator.  I believe Luthacus has recovered a few artifacts from earlier encounters with Mr. Dark.  They may prove useful!
+Professor Semicus is tending the library, and can provide you with access to some books.
+Oh, and see that you speak with the Annalist so your victory can be chronicled.
+
+>ARCH_DISMISS_0
+Dismiss?
+Yes, hello again.  We of course have the utmost confidence in you.
+Specifically, we have confidence you'll finish up here at the university and carry on finding Solomon Dark, yes?
+
+>ANNAL_INTRO_0
+Greetings?
+Look at all those blue robes running around.  How many of them do you think will graduate?  One in ten.  How many of them will do anything interesting?  Not one in a hundred... but I still have to write every single thing they do down!
+I'm the College Annalist.  That means it's my job to keep records.  Even when the people I'm recording are so dull they make me want to slip into a boredom coma.
+...Say, you're the one they're throwing at Solomon Dark, aren't you?  Now that guy, he may be evil, but at least he livens up the history!    He's done for ten of the junior faculty so far.  Good on you for making an epic struggle out of it!
+So then, give me your name and specialty, and I'll get your chronicle started.  I hope you have some good pithy one-liners.
+
+>ANNAL_Q1_0
+The Annals?
+The university annals chronicle all things large and small, to a tedious degree, that happen to the wizards of this university.
+Those of us with literary flair are naturally drafted to take up the quill and perform this important task.
+It's best to be very polite to annalists, or your personal history will go into an embarrasing depth of detail.
+
+>ANNAL_Q2_0
+Solomon Dark?
+Let me consult the Annals.
+Let's see-- it wasn't me who chronicled this-- here we go, Solomon Dark, cross-referenced under "friendless," "evil," and "jerk."
+"It says he was an unremarkable student, maintaining his mediocrity until nobody was looking.  And he liked to pick the wings off flies, hm.
+Personally, I remember the fuss when-- well, he called it his "Graduation Party."  Ah, now *those* were the days to be an Annalist!
+
+>ANNAL_DISMISS_0
+Dismiss?
+Thank you, I already have your information.  Your page is right here, see?
+I believe I've made it clear what a tedious job this is.  Perhaps you could visit me again when you've had some sort of adventure?
+I don't relish chronicling "Our hero wandered about the college courtyard, successfully dodging students."
+
+>POLISHER_INTRO_0
+Greetings?
+Hey, whoa, whoa, whoa, step away from the manticore.  It's still a little bit poisonous.
+
+>POLISHER_Q1_0
+Your task?
+That slob Glanthicus was in here eating like an animal and managed to get some magic honey on the plaque.
+The stuff resists all housekeeping spells, so it has to be removed by hand.  You can't even disintegrate it.
+Worse, it's level 9 honey.  I'll probably be here all day.
+
+>POLISHER_Q2_0
+The Plaque
+It's written in Obtuse, and I don't read it.  I just clean it.
+The librarian probably has it written down in Normal somewhere.  Ask him.  Only if you have all day, of course.
+
+>POLISHER_DISMISS_0
+Dismiss?
+Look, I have work to do.
+
+>POTIONGUY_INTRO_0
+Greetings?
+Hello Hello!
+Can I interest you in a high quality and *very legal* herbal potion? Brewed with all the best natural magicks, no infernal ingredients, and gluten free!
+I also have a wide and remarkable selection of wizarding paraphanalia, maps, and other odds and ends that every wizard needs!
+
+>POTIONGUY_Q1_0
+Potions and Maps?
+Well, most of the potions you can buy around here aren't worth spit.  But I have a natural talent, and my own concoctions are far superior.
+Endowed with such skill, why am I selling out of this little homemade stand?
+Well, fearing my talent, the Brewer's Guild has denied me my trade license.  But a man of my caliber is hardly going to be stopped by petty restrictions.
+Since the Guild refuses to provide the ingredients I need, I search them out myself.  I keep charts of all the exciting new lands I discover along the way, available to you at low cost!
+...The Cartographer's Guild doesn't like this much, but guys who can brew poison don't have to pay dues, I explained.
+
+>POTIONGUY_Q2_0
+Solomon Dark?
+Ah yes, Solomon Dark.  I believe he was in one of my classes.
+I tend not to think too highly of non-brewers, but I hear he turned out to be rather gifted in the end.  Hope that works out for him.
+
+>ITEMGUY_INTRO_0
+Intro?
+Pleased to meet you, mate.  I'm the College's Official Unreal Crime Scene Investigator.
+Basically, that means it's my humble jobbing duty to trudge out into the field and retrieve the remains-- and by remains, I mean little bits and pieces-- of wizards and witches who've gone and done themselves a magical mishap, so they can get buried proper.
+Now, between you and me, there's no point burying the dead with all their stuff, eh?  They don't need it.  Other people might.  Have a look here and see if there's anything you can use.  By order of the Archchancellor, o'course.
+
+>ITEMGUY_Q1_0
+Bad Luck?
+Rubbish! If there was any bad luck in wearing clothes off a dead man, I'd be dead myself right now!
+
+>ITEMGUY_Q2_0
+Solomon Dark?
+Solomon Dark? 
+Now there's a fellow who I'd like to shake by the hand.  Thanks to him, my business is up three hundred percent... and that's just in the last two months!  He's going through the faculty like a Basilisk Hound goes through babies.
+Er, um, I mean to say, Solomon Dark... terrible, terrible fellow, he is.  Right hope someone does for him, and soon.  Have you looked through this chest here?
+
+>MEMORATOR_INTRO
+Greetings?
+Welcome to the palace of *dead* careers.
+Cast your eyes on these legions of lost souls.  Learn their stories that you might avoid their fate!
+Also to show respect, that too.
+
+>MEMORATOR_Q1
+This memorial?
+There's been some secret hush hush wink mission regarding an ex-graduate, and wizards started coming back dead when they came back at all.
+I think when the count passed seven someone decided we needed an official memorial to commemorate the victims.  Otherwise it might have all looked like a mistake.
+This way, it was a noble endeavor that we can all take inspiration from.
+
+>MEMORATOR_Q2
+These mages?
+Lead me to a painting and I'll give you the official eulogy along with some suitably funereal banter.
+
+>MEMORATOR_DISMISS
+Dismiss
+Just walk up to a painting and I'll burden you with the tragic story of a desperate mage.
+
+>LIBRARIAN_INTRO_0
+Oh, hum, good morning.  Is it morning?  Well then, good morning, student.  Are you a student?  No, you're faculty, aren't you?
+Just a moment, I know who you are.  Yes.  The Archchancellor has advised me, yes.  
+Very well, what can I do for you today?  Are you seeking books?  I cannot, of course, permit you to check them out, circumstances being what they are.
+
+>LIBRARIAN_Q1_0
+Check out Books?
+Yes, well, hum, unfortunately the library's lending is closed at the moment while we inventory some, ah, of the more dangerous volumes.  The claim is a few have gone missing.  This is absurd, as I have been-- what's the word-- vigilant! at my post.  All that aside, I cannot lend any books, by order of the, ah, Archchancellor, yes.
+Now if you need to inquire about a particular, ah, volume, I have a great deal knowledge of the contents, yes.  So long as you don't expect me to rattle off tables of logarithms or recite geneologies, I can give you a great deal of the information you might have, ah, sought, if the library was still lending.
+
+>LIBRARIAN_Q2_0
+The Manticore Plaque?
+Oh, the Archchancellor's Manticore?  Yes, the plaque is written in Obtuse.  Are you familiar with Obtuse?
+It was invented by Conchiphus, ah, Obfuscate himself, for the purposes of making writing less communicative, yes.  Helps keep the, ah, magical secrets, you know.  I believe it takes twelve full semesters of intense study before you can begin to understand, ah, the basic grammar.  Very useful for the university you know, yes.  You don't want a lot of young saucy, ah, fellows running around knowing what they're talking about without intense study and hard work now do we?  We do not.
+An interesting fact about Obtuse is, ah, that it is very verbose.  For instance, the Archchancellor's Manticore's plaque consists of over four thousand words, chiselled by a master engraver to occupy no more than three feet by two, in marble specially cursed so as to not crumble with such fine detail.
+Oh, yes, I'm sorry-- you wanted to know the translation.
+The plaque says "Ye Manticore."
+
+>ARCH_INTRO_1
+Greetings?
+Good afternoon.
+We have already skryed that you were unable to subdue Solomon Dark.
+However, you *are* the first to encounter him and survive.  This could be considered a victory.
+But there is no time to settle in and enjoy your groupies.  While you enjoyed your leisurely trip back, we have received several more complaints-- each more and more urgent.  Solomon Dark is escalating his activities.
+You will have to go out again.
+Incidentally, you should see Luthacus.  He has visited a few more, uh, post-encounters with Solomon Dark, and has some information for you.
+
+>ARCH_DISMISS_1
+Dismiss?
+Don't hang around here.  There's a dark wizard to be brought down.
+Did you speak to Luthacus?
+
+>ITEMGUY_INTRO_1
+Greetings?
+All right then, mate.  Good on you for surviving your little adventure.  You're lucky, others are not.
+The Archchancellor wanted me to let you know I've picked up a few more of these unlucky types while you were gone.
+Now I told him, what's the point, these things didn't help them that was wearing them, why does he think they'll help you?  But the man is insistent, give him that.
+So have a look, see if there's anything you can use in here.
+
+>ANNAL_INTRO_1
+Greetings?
+Well well well, look who's still alive.  Let me make a quick note... still... alive... there, done.
+But hm.  I'll just say it: your story is dull.  You went out, you encountered a dark lord-- didn't even kill him-- and, now you're back here again.
+Centuries from now, when people encounter your pages in the Annals, will they stop to read them?
+They won't.
+They'll move on to more exciting wizards.  Wizards who seized the day.  Wizards who did ordinary things in remarkable ways.
+You get my meaning?
+
+>ANNAL_Q1_1
+Your meaning?
+EXE:!BOAST
+EXE:ANNAL_Q
+Do I have to blurt it out?
+You need to do something amazing, something unique with your life!
+Hundreds of mages have fought mythical monsters-- but we remember the name of the one who did it wearing only a codpiece!
+Thousands of wizards have grown magical gardens-- but we remember the guy who did it after gouging his own eye out.
+And how many legions of mages have tried to throw thunderbolts back at the gods?  But who do we remember?  The one who did it covered in snakes.
+I'm saying your story could use that kind of majestic flair.
+Don't you feel like you should be talking up your game a bit?
+
+>ANNAL_Q
+Why Boast?
+I thought you might be the rare exception that distinguishes chronicling from making laundry lists.
+You get prestige and immortality in the Annals... I get to finally write an epic!
+Everybody wins!
+
+>ANNAL_DISMISS_1
+Dismiss?
+All right, all right, you have more to do than talk to me.
+The day is tedious enough already.
+
+>ANNAL_POTIONBOAST
+My boast?
+Now let me get this straight, you are telling me that you will take on this entire endeavor without once restoring or fortifying yourself with any kind of potion?
+Oh yes, now that's a bit interesting!  Good on you!  For once there will be payoff for my hand cramps and blurred vision.  Game on, then!
+
+>ANNAL_ITEMBOAST
+My boast?
+So let me understand, and this is for posterity... you're telling me that you are so confident-- overconfident?-- that you will refrain from donning even the simplest of magical items?
+Splendid!  I've made a note that you're a good sport, and I'll see to it that your pages get written in blue ink, with full illumination on the first letter.
+
+>ANNAL_SECONDARIESBOAST
+My boast?
+As I understand it, your assertion is that you will completely abstain from casting secondary magic spells?  No shields, no storms, none of that?
+Well, now you have engaged my enthusiasm.  I will chronicle your story with more adjectives than most.
+
+>ANNAL_RANDOMBOAST
+My boast?
+Hold on, hold on, you're telling me that you actually intend to invoke the Thaumaturgic Channelling and submit yourself to the will of the magic?  To take whatever chaotic skills and powers it deigns to bestow upon you?
+Madness!  But inspired madness!  And for such a feat as this, I shall delve into my limited supply of glitter ink!
+
+>ANNAL_MANABOAST
+My Boast?
+Ho ho!  Not one in a hundred wizards makes this claim!  Now, if you can really pull this off, people will be cross-referencing your chapters for centuries!
+I'm excited!  It's always a pleasant surprise to meet a wizard who isn't a fussy prig.  I'll see if I can even sneak a few illustrations into your pages.
+
+
+
+
+

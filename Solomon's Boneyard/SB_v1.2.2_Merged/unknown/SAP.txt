@@ -1,0 +1,29 @@
+
+
+
+
+
+
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+                  Split APKs Packer  -  v6.9.0 by Kirlif'
+
+                          Contact: sap_dev@tuta.io
+
+                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+                       Android App Bundle Repackaged
+
+        # Base: -name: com.raptisoft.SB
+                -versionCode: 1029
+                -versionName: 1.2.2
+        # Languages: en, es
+        # DPIs: hdpi
+        # CPUs: armeabi_v7a
+
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+
+

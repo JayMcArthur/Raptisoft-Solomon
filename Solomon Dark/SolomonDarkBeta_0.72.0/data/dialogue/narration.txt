@@ -1,0 +1,78 @@
+//
+// Memoratorium Stuff
+//
+SAY_EULOGY_INTERRUPT1=Oh, okay, you're not interested in that?  Well thank you very much.
+SAY_EULOGY_INTERRUPT2=Oh, yes, just walk away.  I'd hate to bore you.
+SAY_EULOGY_INTERRUPT3=Oh, never mind this guy's story, right?  I'm sure he'd want it that way.
+SAY_EULOGY_INTERRUPT4=Ummm-hmmm
+SAY_EULOGY_0=This portrait is of Sirmin the Wizard.
+SAY_EULOGY_1=This portrait is of Lucritius the Fire Mage.
+SAY_EULOGY_2=This portrait is of Aliss the Witch.
+SAY_EULOGY_3=This portrait is of Morth the Icebinder.
+SAY_EULOGY_4=This portrait is of Griselda the Sorceress.
+SAY_EULOGY_5=This portrait is of Vorpus the Magician.
+SAY_EULOGY_6=This portrait is of Wegnus, called 'The White'.
+SAY_EULOGY_7=This portrait is of Wazoo the Storm Mage.
+SAY_EULOGY_8=This portrait is of Athicus the Diviner.
+SAY_EULOGY_9=This portrait is of Andra the Medium.
+SAY_BADEULOGY_0=Pathetic example of wizardry, really.
+SAY_BADEULOGY_1=What a senseless waste of human life.
+SAY_BADEULOGY_2=This would be tragic if it wasn't so utterly predictable.
+SAY_BADEULOGY_3=Tsk.  More bravado than magic.
+SAY_BADEULOGY_4=Whoever sent this guy out should be ashamed.
+SAY_BADEULOGY_5=Powerful magic.. But slow.. So slow.
+SAY_BADEULOGY_6=Practice makes perfect. Not potions.
+SAY_BADEULOGY_7=Dodged when he should have parried.
+SAY_OUTOFMANA1=I need more mana!
+SAY_OUTOFMANA2=I need mana!
+SAY_OUTOFMANA3=I'm out of mana!
+SAY_INEEDAKEY=I need a key!
+SAY_DANGER1=Danger!
+SAY_DANGER2=Danger!
+SAY_BOAST_SURVIVALEULOGY0=Lucritius tells me it looks like this guy didn't drink a single potion during his whole ordeal!  You know, He told me he was going to do that!  I advised him against it, but he was completely mad, insisted he could pull it off.  They're calling his death a suicide.
+SAY_BOAST_SURVIVALEULOGY1=So word on the street is this guy was found without a single magical implement on him.  Talk about overconfident!  You know, I seem to recall him saying something about not using magical implements when I was getting his name for the Annals... I advised againt it, in fact.  You can't help some people.  They're calling his death a suicide.
+SAY_BOAST_SURVIVALEULOGY2=Did you know, when they did the skry-autopsy on this one, they found out he didn't even cast some of the most useful spells in the grimoire?  They're calling his death a suicide.  Hm... I seem to recall him strutting around saying he wouldn't cast secondary magic.  I advised against that, of course.
+SAY_BOAST_SURVIVALEULOGY3=So get this... as this guy is leaving, he tells me he's going to invoke the Rite of Thaumaturgic Channelling and take whatever spell wants him.  I advised against that, but he wasn't listening to anyone at that point.  They're calling it suicide.  Oh well, it makes an interesting footnote, at least, how often does this happen?
+SAY_BOAST_SURVIVALEULOGY4=I remember this guy.  As he's leaving, he tells me he never runs out of mana.  Have you ever heard anything like that?  There's overconfidence, and then there's our wizard here.  They tell me he actually _idid_i it, too-- there's not a single sign that he ever overtaxed his node.  Such a pity about the ink shortage, this really deserved to be written down.
+//
+// Tutorial stuff
+//
+SAY_SOLOMONDARKSHOWYOURSELF=SOLOMON DARK!  Show yourself!
+SAY_OHBOYANOTHERWIZARD=Oh boy, another pointy head from Wizard School.  What is it this time?
+//SAY_OHBOYANOTHERWIZARD=Oh jeez, another wizard.  What now!
+SAY_IHAVEBEENDISPATCHED=Solomon Dark, I have been dispatched here by the College to make you answer for your crimes!
+SAY_ILLDOTHEDISPATCHING=I'll do the dispatching
+SAY_YOURPERVERSIONS=For your perversions against nature, and for the foul murders of the junior mages Morth, Aliss, and Lucritius, I sentence you... TO DEATH!
+SAY_TODEATHEXACTLY=To death!  Exactly what I had in mind!  Let's get it on!
+SAY_COWARDCOMEBACK=Coward!  Come back!
+SAY_GETHIMBOYS=Get him, boys!
+SAY_IAMSIRMIN=Your foul necromancy cannot stand against me, for I am Sirmin the Wizard!
+SAY_NEVERHEARDOFYOU=I've never heard of you, and nobody else will either.
+SAY_EASILYVANQUISHED=Ha!  Your so called skeletal hordes are easily vanquished!
+SAY_ICAMEPREPARED=You see that I came prepared!  I am no neophyte mage, to be awed by a few undead!
+SAY_ACIDRAINHUH=Acid rain, huh?  That's kid stuff!
+SAY_SURRENDER=I tire of this!  Surrender and your death will be painless, I swear it.
+SAY_CARELESSFOOL=You fool!  Your slave has dropped something precious, I see!
+SAY_UNREDEEMABLE=Now I bear the amulet!  You are too clumsy and careless to call yourself a wizard!
+SAY_TORMENT=And when we finish here, your soul will sizzle in torment for all eternity!
+SAY_SOUNDLIKEMYMOTHER=Geez, you sound like my mother.
+SAY_ACCEPTYOURFATE=You cannot prevail.  Accept your fate!
+SAY_MAKEMESTRONGER=Your depraved magic only serves to make me stronger, Dark Lord!
+SAY_LEVELLINGUP=Levelling up is not going to save you.
+SAY_LOOKINGBEATUP=You're looking a little beat up there, son.
+SAY_FACETHEWRATH=Now face the wrath of a fully restored and angry wizard!
+SAY_IMBORED=And... I'm bored.  Destroy him, my skeletons!
+
+//
+// Solomon Scripts
+//
+SAY_SOLOMON_LAUGH1=(Laughs Wildly)	
+SAY_SOLOMON_HELLO1=Perfect Timing!  I just finished your grave.
+SAY_SOLOMON_TROUBLELAUGH=(Triumphant Laugh)
+
+SAY_SOLOMON_ANOTHERCORPSE=Another corpse for the boneyard!
+
+//
+// Solomon Victory Quips
+//
+SAY_SOLOMON_LAUGHBIG1=(Huge Laugh)	

@@ -1,0 +1,16 @@
+<NAME>Mallison</NAME>
+
+<INTRO>
+He's not allowed to do this.
+He doesn't have a charter to build this kind of booth.
+He doesn't have a permit to mix and sell potions.
+He doesn't have a cartography license.
+And he _icertainly_i doesn't have authorization to set up in the middle of the road.
+We cannot certify the quality of any of his goods.  They're risky, don't buy them.  If you do, you could be in violation of several university by-laws.
+</INTRO>
+
+<Q>Permits?</Q>
+<A>
+You can apply for permits at the Ministry of Organization, on the second day of every month.
+Be sure you have your paperwork in order.
+</A>

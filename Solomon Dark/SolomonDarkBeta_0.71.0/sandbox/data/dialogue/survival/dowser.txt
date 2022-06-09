@@ -1,0 +1,21 @@
+<NAME>Shlorio the Dowser</NAME>
+
+<INTRO>
+Good morning.
+Are you interested in what can be found within the luminiferous ether?
+My magic mirror and I are eager to assist you.  
+</INTRO>
+
+<Q>_c(.55f,.75f,.55f)_s(1.25)Dowse</Q>
+<A>!DOWSE</A>
+
+<Q>Your Prices</Q>
+<A>
+I am sure you appreciate that dowsing is an inexact science.  The price varies.
+Peering into the mirror is so mentally taxing that I must charge you even to take a look.  
+Drawing an item out causes actual physical pain, and is understandably expensive.  The price of retrieving an item will depend on how entangled it is, as well as how many burns I expect to sustain.
+Disturbing the ether changes the entire ethereal contour, so the price will fluctuate depending on the state of the infirmament as well.
+</A>
+
+
+

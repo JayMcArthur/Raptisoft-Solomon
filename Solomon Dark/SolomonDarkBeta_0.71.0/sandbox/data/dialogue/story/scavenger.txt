@@ -1,0 +1,38 @@
+<NAME>Luthacus</NAME>
+
+<INTRO>
+Pleased to meet you, mate.  I'm the College's resident scavenger.
+Basically, that means it's my humble jobbing duty to trudge out into the field and retrieve the remains-- and by remains, I mean little bits and pieces-- of wizards and witches who've gone and done themselves a magical mishap, so they can get buried proper.
+Now, between you and me, there's no point burying the dead with all their stuff, eh? They don't need it.  Other people might.  Share and share alike-- right?
+</INTRO>
+
+<Q>Let me look</Q>
+<A>!INVENTORY</A>
+
+<Q>Outfit me Randomly</Q>
+<A>!RANDOMEQUIP</A>
+
+<Q>Isn't this bad luck?</Q>
+<A>
+Rubbish! If there was any bad luck in wearing clothes off a dead man, I'd be dead myself by now!
+</A>
+
+<Q>Magical mishaps?</Q>
+<A>
+You know... accidental detonations, unexpected demons, enchanted wardrobe malfunctions-- the usual sort of fatalities.
+Tell you what though, business has been booming lately.  I reckon it's got something to do with that rogue wizard bloke.
+</A>
+		
+<Q>College scavenger?</Q>
+<A>
+Weeeelllll, the technical term for the job's something more along the lines of resident Mortician-In-Wait, but that makes it sound like the kind of gig where I'd have to wear a tie.
+</A>
+
+<Q>Solomon Dark?</Q>
+<A>
+Solomon Dark? 
+Now there's a fellow who I'd like to shake by the hand.  Thanks to him, my business is up three hundred percent...
+...and that's just in the last two months!  He's going through faculty members like a Basilisk Hound goes through babies.
+</A>
+
+

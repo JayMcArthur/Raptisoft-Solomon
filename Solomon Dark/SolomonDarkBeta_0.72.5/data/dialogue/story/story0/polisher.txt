@@ -1,0 +1,26 @@
+<NAME>Mundigo</NAME>
+<INTRO>
+Hey, whoa, whoa, whoa, step away from the manticore.  It's still a little bit poisonous.
+</INTRO>
+
+<Q>What are you doing?</Q>
+<A>
+That slob Glanthicus was in here eating like an animal and managed to get some magic honey on the plaque.
+The stuff resists all housekeeping spells, so it has to be removed by hand.  You can't even disintegrate it.
+Worse, it's level 9 honey.  I'll probably be here all day.
+</A>
+
+<Q>The Manticore?</Q>
+<A>
+It's just a baby, but pretty toxic.
+It says everything about it on the plaque, if you read Obtuse.  I don't.
+All I can tell you is, it was a manticore, then someone killed it, then someone stuffed it, and then someone stuck it here.
+
+I know, right?
+</A>
+
+<Q>The Plaque</Q>
+<A>
+It's written in Obtuse, and I don't read it.  I just clean it.
+The librarian probably has it written down in Normal somewhere.  Ask him.  Only if you have all day, of course.
+</A>

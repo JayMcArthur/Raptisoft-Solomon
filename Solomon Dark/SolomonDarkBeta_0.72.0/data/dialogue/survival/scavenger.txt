@@ -1,0 +1,13 @@
+<NAME>Luthacus</NAME>
+
+<INTRO>
+Pleased to meet you, mate.  I'm the College's resident scavenger.
+Basically, that means it's my humble jobbing duty to trudge out into the field and retrieve the remains-- and by remains, I mean little bits and pieces-- of wizards and witches who've gone and done themselves a magical mishap.  So they can get buried proper.
+Now, between you and me, there's no point burying the dead with all their stuff, eh? They don't need it.  Other people might.  Share and share alike-- right?
+</INTRO>
+
+<Q>Let me look</Q>
+<A>!INVENTORY</A>
+
+<Q>Outfit me Randomly</Q>
+<A>!RANDOMEQUIP</A>

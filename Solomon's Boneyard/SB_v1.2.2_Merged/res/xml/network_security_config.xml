@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">www.raptisoft.com</domain>
+        <domain includeSubdomains="true">45.76.25.28</domain>
+    </domain-config>
+</network-security-config>

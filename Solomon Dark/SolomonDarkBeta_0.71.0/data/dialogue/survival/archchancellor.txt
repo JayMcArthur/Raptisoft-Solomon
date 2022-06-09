@@ -1,0 +1,13 @@
+<NAME>The ArchChancellor</NAME>
+<INTRO>
+SAY_ARCHCHANCELLOR_SURVIVAL1
+Oh are you back again?  I thought we had covered things adequately a few minutes ago.
+Find Solomon Dark and bring him to justice.  The reputation of the university is counting on you!
+</INTRO>
+
+<Q>I will need equipment</Q>
+<A>
+Yes, yes, in the courtyard you will find all the help you need.
+Lucritius has clothing and artifacts from some of our earlier... mistakes.  You can take your pick of the lot.
+Hagatha the witch has some weird swamp-woman magic that is primitive and incomprehensible, but seems to work.
+</A>

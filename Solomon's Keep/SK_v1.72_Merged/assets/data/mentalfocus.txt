@@ -1,0 +1,20 @@
+TITLE1=MENTAL
+TITLE2=FOCUS
+DESC=RECOVER|SECONDARY|SKILLS FASTER.
+XTRA1=RECOVER: 2X
+
+REQ1=level:9
+
+XREQ1=teleport:1
+XREQ2=ringoffire:1
+XREQ3=acidcloud:1
+XREQ4=magicshield:1
+XREQ5=magiccircle:1
+XREQ6=flashfreeze:1
+
+CAP=1
+MAX=1
+
+
+
+
